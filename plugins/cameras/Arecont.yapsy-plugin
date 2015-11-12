@@ -1,0 +1,12 @@
+[Core]
+Name = Arecont
+Module = Arecont
+
+[Documentation]
+Author = Mutti K
+Version = 0.1
+Website = http://interwebs
+Description = Scanner module for Arecont network cameras.
+    Supported modes
+   --mode discovery
+   --mode password

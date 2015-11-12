@@ -1,0 +1,11 @@
+[Core]
+Name = Snmp
+Module = Snmp
+
+[Documentation]
+Author = Mutti K
+Version = 0.1
+Website = http://interwebs
+Description = Simple Network Management Protocol.
+ Supported modes, 
+ --mode discovery

@@ -1,0 +1,11 @@
+[Core]
+Name = Axis
+Module = Axis
+
+[Documentation]
+Author = Mutti K
+Version = 0.1
+Website = http://interwebs
+Description = Scanner module for Axis network cameras.
+ Supported modes, 
+ --mode discovery

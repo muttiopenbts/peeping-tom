@@ -1,0 +1,11 @@
+[Core]
+Name = Onvif
+Module = Onvif
+
+[Documentation]
+Author = Mutti K
+Version = 0.1
+Website = http://interwebs
+Description = Open Network Video Interface Forum (ONVIF) is an open industry forum.
+ Supported modes, 
+ --mode discovery

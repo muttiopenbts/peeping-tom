@@ -1,0 +1,11 @@
+<xml>
+    <discovery>
+        <bruteforce_creds>
+            <username>viewer</username>
+            <password>viewer</password>
+            <username>admin</username>
+            <password>admin</password>
+        </bruteforce_creds>
+    </discovery>
+    <mode>discovery</mode>
+</xml>

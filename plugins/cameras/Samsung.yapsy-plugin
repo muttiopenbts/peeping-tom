@@ -1,0 +1,11 @@
+[Core]
+Name = Samsung
+Module = Samsung
+
+[Documentation]
+Author = Mutti K
+Version = 0.1
+Website = http://interwebs
+Description = Scanner module for Samsung network cameras.
+ Supported modes, 
+ --mode discovery

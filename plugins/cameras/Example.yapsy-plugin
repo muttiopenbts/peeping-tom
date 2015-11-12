@@ -1,0 +1,11 @@
+[Core]
+Name = Example
+Module = Example
+
+[Documentation]
+Author = Mutti K
+Version = 0.1
+Website = http://interwebs
+Description = Example scanner module for network cameras.
+ Supported modes, 
+ --mode discovery
