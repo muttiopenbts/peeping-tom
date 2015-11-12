@@ -10,6 +10,9 @@ Scan a network for IP cameras and attempt to capture password.
 Two modes of scanning available,
 1 udp broadcast 255.255.255.255 and pickup all Arecont cameras listening.
 2 scan an individual host or network range. e.g. 192.168.2/24 or 192.168.3.3
+3 Can use snmp
+4 Onvif standard
+5 Multi threaded
 
 Extra features
 Video stream to ascii art.
